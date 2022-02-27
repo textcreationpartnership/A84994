@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the proceedings at the rendezvouz of that brigade of the Army that was held in Corkbush field in Hartford parish on Monday last. And a letter from the Speaker of the Honorable House of Commons to Sir Thomas Fairfax, concerning the said rendezvouz. With a paper, entituled, Englands freedoms, and soldiers rights. Also a petition to his Excellency Sir Thomas Fairfax, of divers officers and soldiers of the Army under his command. Together with a declaration against the proceedings of the new agents. Nov. 15. 1647. Imprimatur Gilbert Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84994</idno>
+            <idno type="STC">Wing F2368A</idno>
+            <idno type="STC">Thomason E414_13</idno>
+            <idno type="STC">ESTC R204506</idno>
+            <idno type="EEBO-CITATION">99863995</idno>
+            <idno type="PROQUEST">99863995</idno>
+            <idno type="VID">116213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the proceedings at the rendezvouz of that brigade of the Army that was held in Corkbush field in Hartford parish on Monday last. And a letter from the Speaker of the Honorable House of Commons to Sir Thomas Fairfax, concerning the said rendezvouz. With a paper, entituled, Englands freedoms, and soldiers rights. Also a petition to his Excellency Sir Thomas Fairfax, of divers officers and soldiers of the Army under his command. Together with a declaration against the proceedings of the new agents. Nov. 15. 1647. Imprimatur Gilbert Mabbot.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>November 16. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Political activity --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116213:1" rendition="simple:additions"/>
+            <p>A FULL RELATION OF The Proceedings at the Rendezvouz of that Brigade of the Army that was held in <hi>Corkbuſh</hi> field in <hi>Hartford</hi> Pariſh on Monday laſt.</p>
+            <p>AND A LETTER from the Speaker of the Honorable Houſe of Commons to Sir <hi>Thomas Fairfax,</hi> con<g ref="char:EOLhyphen"/>cerning the ſaid Rendezvouz.</p>
+            <p>With a PAPER, Entituled, <hi>Englands Freedoms, and Soldiers Rights.</hi>
+            </p>
+            <p>ALSO A Petition to his Excellency Sir <hi>Thomas Fairfax,</hi> of divers Officers and Soldiers of the Army under his Command.</p>
+            <p>Together with a Declaration againſt the Proceedings of the new Agents.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Nov. 15. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilbert Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman, November</hi> 16. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116213:2"/>
+            <pb n="3" facs="tcp:116213:2"/>
+            <head>To his Excellency Sir <hi>Tho: Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis houſe received ſeveral deſires from you, in be<g ref="char:EOLhyphen"/>half of the Army under your Command, which they took into preſent conſideration; but by the Kings withdrawing from Hampton Court, were interrupted in that debate. For the moneths pay, they have endeavoured the complying with it, and doubt not, but it may be ſpeedily effected; for the Arrears, they are re<g ref="char:EOLhyphen"/>ſolved to give a full and ſufficient ſecurity; and are very ſen<g ref="char:EOLhyphen"/>ſible of thoſe expreſſions of the Army, wherein they declare their reſolutions (upon a conſtant pay) to make it death to take any thing from any inhabitant of this kingdom; and re<g ref="char:EOLhyphen"/>membring that the Rendezvouz of the Army beginneth on Monday next, They have commanded me to make known un<g ref="char:EOLhyphen"/>to you (and deſire you would make it known to the Soldiers) that they will forthwith proceed upon thoſe deſires of the Ar<g ref="char:EOLhyphen"/>my, which by reaſon of this accident (for the preſent) they could not finiſh; and make ſuch proviſion for them, both for the preſent for their Arrears, and their future conſtant pay, as may let them cleerly ſee, the care they have of them, and the value they put upon their paſt ſervices; reſting confident of their complyance and ſubmiſſion to the Commands and Directions of Parliament; not having more in command, I remain,</p>
+            <closer>
+               <signed>Your Excellencies humble Servant, <hi>William Lenthal</hi> Speaker.</signed>
+               <dateline>Weſtminſter. <date>13. Nov. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:116213:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day (according to appointment) the Ren<g ref="char:EOLhyphen"/>dezvouz of the firſt Brigade of the Army was held in Corkbuſh field in Hartford Pariſh, between Hartford and Ware; Hartford being the Head quarters Saturday and Sonday, the General went from thence to the Rendezvouz; where according to order there met, of Horſe, The Generals Regiment, Col: <hi>Fleetwoods,</hi> Col: <hi>Riches,</hi> and Col: <hi>Twiſtletons;</hi> of Foot, The Generals, Col: <hi>Hamonds,</hi> and Col: <hi>Prides:</hi> And beſides theſe, upon the ſeducements of the new Agents, Col: <hi>Harri<g ref="char:EOLhyphen"/>ſons,</hi> and Col: <hi>Lilburns</hi> Regiments: The General expreſſed himſelf very gallantly and faithfully at the Head of every Regiment, to live and dye with them for thoſe particulars which were contained in a Remonſtrance read to every Regiment: And not<g ref="char:EOLhyphen"/>withſtanding the endeavors of Major <hi>Scot</hi> and o<g ref="char:EOLhyphen"/>thers; to animate the Soldiers to ſtand to the Paper called <hi>The Agreement of the People,</hi> they generally by many acclamations declared their Affections and Reſolutions to adhere to the General; and as many as could in the ſhort time they had allowed, ſigned an Agreement drawn up for that purpoſe, concern<g ref="char:EOLhyphen"/>ing their being ready from time to time to obſerve ſuch Orders as they ſhould receive from the Gene<g ref="char:EOLhyphen"/>ral and Councel of the Army, I had ſent you the copy of this Agreement, and His Excellencies
+<pb n="5" facs="tcp:116213:3"/>
+Remonſtrance, but that I was ſo ſtraitned in time I could not: I ſhou'd have acquainted you before, That upon the Generals coming into the field, Col: <hi>Eyres,</hi> Major <hi>Scot,</hi> and others, were obſerved to be inſinuating divers ſeditious Principles into the Sol<g ref="char:EOLhyphen"/>diers, and incenſing them againſt the General and General Officers: Upon which Order was given for the Commitment of Col: <hi>Eyre</hi> and others into the Marſhals hands; and Major <hi>Scot</hi> committed to the cuſtody of Lieutenant <hi>Chillenden,</hi> and ſent up to the Parliament: Some inferior perſons were likewiſe committed, for diſperſing ſundry ſcanda<g ref="char:EOLhyphen"/>lous and factious Papers, as <hi>The Agreement of the People, &amp;c.</hi> among the private Soldiers: And finding that thoſe perſons who pretend moſt for the Free<g ref="char:EOLhyphen"/>dom of People had diſperſed divers of thoſe Pa<g ref="char:EOLhyphen"/>pers amongſt Col: <hi>Lilburns</hi> Regiment of Foot (the moſt mutinous Regiment in the Army) ſtrict Com<g ref="char:EOLhyphen"/>mand was given for them to tear them and caſt them away; which was done: and Captain Lieut: <hi>Bray</hi> (who was the onely Officer above a Lieutenant left among them, the reſt being driven away by the mutinous Soldiers, and one of them wounded) was taken from the Head of that Regiment, and com<g ref="char:EOLhyphen"/>mitted to cuſtody; it being alleaged, That he had led on the Soldiers to that Rendezvouz contrary to Orders. And afterwards a Councel of War being called in the field, divers Mutiniers for exam<g ref="char:EOLhyphen"/>ple ſake were drawn forth, three of them were tryed and condemned to death, and one of them (whoſe turn it fell to by lot) was ſhot to death at the Head of the Regiment, and others are in hold to be tryed.
+<pb n="6" facs="tcp:116213:4"/>
+The Soldiers of this Regiment crying out, That they were abuſed by their Officers, and being told by the Lieutenant General, That they ſhould have Juſtice againſt them, were very much ſatisfied, ſen<g ref="char:EOLhyphen"/>ſible of their error, and promiſed conformity to the Generals Commands for the future. Col: <hi>Rainſ<g ref="char:EOLhyphen"/>brough</hi> and ſome others preſented this encloſed Pe<g ref="char:EOLhyphen"/>tition, and <hi>The Agreement of the People,</hi> to His Ex<g ref="char:EOLhyphen"/>cellency at his firſt coming: Col: <hi>Harriſons</hi> Regi<g ref="char:EOLhyphen"/>ment, who had them in their Hats with this Motto on the outſide in capital Letters, <hi>Englands Freedoms, and Soldiers Rights,</hi> when they underſtood their error, tore them out of their Hats, and expreſſed their Reſolution to be obedient to His Excellen<g ref="char:EOLhyphen"/>cies commands. Lieut: Col: <hi>John Lilburn</hi> came this day to Ware; but things not ſucceeding at the Rendezvouz according to expectation, came not further. Sir, As I cannot but rejoyce in this days Unity, in relation to the Peace of the Kingdom; ſo, I hope, That the iſſue will tend to the benefit there<g ref="char:EOLhyphen"/>of; and that the General and Officers of the Army will do as much for the real Freedom of the People, as the other do pretend; and how good ſoever their Intentions may be, nothing but confuſion at pre<g ref="char:EOLhyphen"/>ſent appears in their Endeavors. In much haſte I reſt,</p>
+            <closer>
+               <dateline>Hartford,
+<date>15. Nov. 1647.</date>
+               </dateline>
+               <signed>Your affectionate Friend and Servant, WILLIAM CLARK.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="7" facs="tcp:116213:4"/>
+            <head>
+               <hi>Englands Freedoms and Soldiers Rights;</hi> An Agreement of the People, for a firm and preſent Peace, upon Grounds of Common Right.</head>
+            <p>HAving by our late labors and hazards made it appear to the world at how high a rate we value our juſt Freedom, &amp; having ſo far owned our cauſe, as to deliver the enemies there<g ref="char:EOLhyphen"/>of into our hands: We do now hold our ſelves bound in mutual duty to each other, to take the beſt care we can for the future, to avoid both the danger of returning into a ſlaviſh condition, and the charge<g ref="char:EOLhyphen"/>able remedy of another War: for as it cannot be ima<g ref="char:EOLhyphen"/>gined that ſo many of our Countrey men would have oppoſed us in this quarrel, if they had under<g ref="char:EOLhyphen"/>ſtood their own good; ſo may we ſafely promiſe to our ſelves, that when our common Rights and Li<g ref="char:EOLhyphen"/>berties ſhall be cleared, their endeavors will be diſ<g ref="char:EOLhyphen"/>appointed, that ſeek to make themſelves our Ma<g ref="char:EOLhyphen"/>ſters: ſince therefore our former oppreſſions, and ſcarce yet ended troubles have been occaſioned, either by want of frequent National meetings in Counſel, or by rendring thoſe meetings ineffectu<g ref="char:EOLhyphen"/>al; We are fully agreed and reſolved, to provide that hereafter our Repreſentatives be neither left to an uncertainty for the time, nor made uſeleſs to the ends for which they are intended: In order where<g ref="char:EOLhyphen"/>unto we Declare,</p>
+            <p n="1">1. That the people of England being at this day very unequally diſtributed, by Counties, Cities, and Burroughs, for the Election of their Deputies in
+<pb n="8" facs="tcp:116213:5"/>
+Parliament, ought to be more indifferently propor<g ref="char:EOLhyphen"/>tioned, according to the number of the Inhabi<g ref="char:EOLhyphen"/>tants: the circumſtances whereof, for number, place, and maner, are to be ſet down before the end of this preſent Parliament.</p>
+            <p n="2">2. That to prevent the many inconveniencies, ap<g ref="char:EOLhyphen"/>parently ariſing, from the long continuance of the ſame perſons in authority, this preſent Parliament be diſſolved upon the laſt day of September, which ſhall be in the year of our Lord, 1648.</p>
+            <p n="3">3. That the People do of courſe chuſe them<g ref="char:EOLhyphen"/>ſelves a Parliament once in two years. <hi>viz.</hi> upon the firſt Thurſday in every ſecond March, after the maner as ſhall be preſcribed before the end of this Parliament, to begin to ſit upon the firſt Thurſday in April following at Weſtminſter, or ſuch other place as ſhall be appointed from time to time by the preceding Repreſentatives; and to continue till the laſt day of September then next enſuing, and no longer.</p>
+            <p n="4">4. That the power of this, and all future Repre<g ref="char:EOLhyphen"/>ſentatives of this Nation, is inferior only to theirs who chuſe them, and doth extend without the con<g ref="char:EOLhyphen"/>ſent or concurrence of any other perſon or perſons; to the Enacting, Altering, and repealing of Laws; to the erecting and aboliſhing of Offices and Courts; to the appointing, removing, and calling to account Magiſtrates, and Officers of all degrees; to the making War and Peace, to the treating with forraign States; and generally, to whatſoever is not expreſly, or implyedly reſerved by the Repre<g ref="char:EOLhyphen"/>ſented to themſelves, which are as followeth;</p>
+            <div type="part">
+               <pb n="9" facs="tcp:116213:5"/>
+               <p n="1">1. <hi>THat matters of Religion, and the ways of Gods Worſhip, are not at all intruſt<g ref="char:EOLhyphen"/>ed by us to any humane power, becauſe therein we cannot remit or exceed a tittle of what our Con<g ref="char:EOLhyphen"/>ſciences dictate to be the minde of God, without wilful ſin: nevertheleſſe the publike way of in<g ref="char:EOLhyphen"/>ſtructing the Nation (ſo it be not compulſive) is referred to their diſcretion.</hi>
+               </p>
+               <p n="2">2. <hi>That the matter of Impreſting and con<g ref="char:EOLhyphen"/>ſtraining any of us to ſerve in the Wars, is againſt our Freedom, and therefore we do not allow it in our Repreſentatives; the rather, becauſe money (the ſinews of War) being always at their diſpo<g ref="char:EOLhyphen"/>ſal, they can never want numbers of men apt enough to engage in any juſt Cauſe.</hi>
+               </p>
+               <p n="3">3. <hi>That after the diſſolution of this preſent Parliament, no perſon be at any time queſtioned for any thing ſaid or done, in reference to the late publike differences, otherwiſe then in execution of the Judgements of the preſent Repreſentatives, or Houſe of Commons.</hi>
+               </p>
+               <p n="4">4. <hi>That in all Laws, made, or to be made, eve<g ref="char:EOLhyphen"/>ry perſon may be bound alike; and that no Tenure, Estate, Charter, Degree, Birth, or Place, do con<g ref="char:EOLhyphen"/>fer
+<pb n="10" facs="tcp:116213:6"/>
+any exemption from the ordinary courſe of le<g ref="char:EOLhyphen"/>gal proceedings, whereunto others are ſubjected.</hi>
+               </p>
+               <p n="5">5. <hi>That as the Laws ought to be equal, ſo they muſt be good, and not evidently deſtructive to the ſafety and well-being of the People.</hi>
+               </p>
+               <p>Theſe things we declare to be our Native Rights, and therefore are agreed and reſol<g ref="char:EOLhyphen"/>ved to maintain them with our utmoſt poſſi<g ref="char:EOLhyphen"/>bilities, againſt all oppoſition whatſoever; being compelled thereunto, not onely by the examples of our Anceſtours, whoſe blood was often ſpilt in vain for the recove<g ref="char:EOLhyphen"/>ry of their Freedoms, ſuffering themſelves, through fraudulent Accommodations, to be ſtill deluded of the fruit of their Victories; but alſo by our own woful experience, who having long expected, and dearly earned the eſtabliſhment of theſe certain Rules of Go<g ref="char:EOLhyphen"/>vernment, are yet made to depend, for the ſettlement of our Peace and Freedom, upon Him that intended our Bondage, and brought a cruel War upon us.</p>
+            </div>
+         </div>
+         <div type="document">
+            <pb n="11" facs="tcp:116213:6"/>
+            <p>FOraſmuch as our condition with the Armie in <hi>May</hi> and <hi>June</hi> laſt occaſioned us to make choice of Agitators for tranſaction of our buſi<g ref="char:EOLhyphen"/>neſſe with, and repreſentation of our grievan<g ref="char:EOLhyphen"/>ces to the Generall, and by him to the Parlia<g ref="char:EOLhyphen"/>ment, for the keeping of a mutuall correſpon<g ref="char:EOLhyphen"/>dencie and unanimous compliance amongſt us, for the cleering of all miſpriſions and miſ<g ref="char:EOLhyphen"/>apprehenſions that might any way retard the firm eſtabliſhment of a laſting Peace in this unhappy Kingdom, as alſo in order and rela<g ref="char:EOLhyphen"/>tion to the providing compleat ſatisfaction for the Souldiery: Notwithſtanding upon ſeve<g ref="char:EOLhyphen"/>rall informations that thoſe formerly imploy<g ref="char:EOLhyphen"/>ed by us did more conſult their own advance<g ref="char:EOLhyphen"/>ment then the Publick ſettled, we were indu<g ref="char:EOLhyphen"/>ced about the 19 of <hi>October</hi> laſt to make choice of two new Agitators for a Regiment; not in the leaſt manner intending that they ſhould preſume to uſurp authority over the General, the Councell of Warre, the old Agitators o<g ref="char:EOLhyphen"/>ver the Kingdom, or over us, as to appoint
+<pb n="12" facs="tcp:116213:7"/>
+Conventions at their own pleaſure, and there to compoſe and publiſh in print to the world ſtrange and unheard of Fancies, and frame <hi>I<g ref="char:EOLhyphen"/>deas</hi> of their own brain, and bring them to us to father. But the authority that we derived upon them, was onely to act according to our firſt engaged principles, with the conſent and advice of the Generall, the Councel of War, and the Agitators firſt elected, to cleer thoſe things that ſeemed dubious unto us, to prevent miſinfor<g ref="char:EOLhyphen"/>mations, to endeavour to facilitate things that appeared difficult, to make us intelligent Sub<g ref="char:EOLhyphen"/>jects what progreſſe had been made in order to our firſt ingagement and repreſentations to the Parliament, and to improve their beſt aſ<g ref="char:EOLhyphen"/>ſiſtance to remove ſuch obſtructions as did any way impede the juſt and legall proceedings of the Army. And whereas they have contrary to the truſt repoſed in them, contrary to the end for which they were ſelected and choſen, and indeed, contrary to good ſubjects, caſt off all allegeance and obedience (as we conceive) to all preſent viſible Authority in the King<g ref="char:EOLhyphen"/>dom, and have betaken themſelves to a new framed Citie of Refuge, have declared that
+<pb n="13" facs="tcp:116213:7"/>
+they will inſiſt in that way poſitively againſt all oppoſition whatſoever, have endeavoured to incenſe the Nation that the Armie's inten<g ref="char:EOLhyphen"/>tions, Declarations, and Remonſtrances have been but to gull and miſlead the people, and have rejected all terms of correſpondency with thoſe formerly entruſted and employed by us; and all this acted printed, and publiſh<g ref="char:EOLhyphen"/>ed before any antecedaneous notice thereof given, or conſent had from their reſpective Regiments. Therefore we do declare to the ſaid pretended Agitators, and to all the world, that we are ſo far from countenancing their prepoſterous proceedings, as that hereby we teſtifie our utter diſlike to it: And do hereby re<g ref="char:EOLhyphen"/>call any pretended authority that the ſaid Agi<g ref="char:EOLhyphen"/>tators make claim to from us, and likewiſe do require them to return to their ſeverall and re<g ref="char:EOLhyphen"/>ſpective Troops, and not to perſiſt any farther by vertue of any colourable pretence whatſo<g ref="char:EOLhyphen"/>ever; wee being fully reſolved to adhere to the former Mutuall Agreement of the Army, and not to act in a diſtinct way from the Ge<g ref="char:EOLhyphen"/>nerall Councel of Warr, and thoſe Agitators formerly entruſted by us, much leſſe in op<g ref="char:EOLhyphen"/>poſition
+<pb n="14" facs="tcp:116213:8"/>
+to them; but to comply with them in all ſuch things as may conduce to the ſpee<g ref="char:EOLhyphen"/>dy redreſſe of the publick diſtractions of the Kingdom, and the bringing to perfection our juſt deſires contained and ſpecified in the In<g ref="char:EOLhyphen"/>gagements and ſeverall Declarations of the Army, and will make choice of ſuch men as ſhall be appointed to communicate their ut<g ref="char:EOLhyphen"/>moſt endeavours in the aſſiſtance of the Gene<g ref="char:EOLhyphen"/>rall and Councell of War, in ſuch a way as may beſt conduce to the <hi>Bene eſſe</hi> of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <closer>
+               <signed>Conſented to and ſubſcribed by the Officers and Souldiers in Col. <hi>Whaley's</hi> own Troop.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="15" facs="tcp:116213:8"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> our noble Generall.</head>
+            <head type="sub">The humble Petition of many Officers and Souldiers under his command.</head>
+            <opener>Sheweth,</opener>
+            <p>THat in Judgement and conſcience we engaged in the warr againſt the King under your Excellen<g ref="char:EOLhyphen"/>cyes command, to preſerve and vindicate the freedoms of our native Country, and of the Parliament in or<g ref="char:EOLhyphen"/>der thereunto.</p>
+            <p>That by the bleſſing of God all thoſe our Enemies are falne or fled before us.</p>
+            <p>That for the ſame Ends, and for our own Rights, for our ſervice, we were forced to hazzard our ſelves in diſputing the Parliaments commands, and thoſe our Oppoſers have been likewiſe ſubdued.</p>
+            <p>That the Countyes have petitioned your Excellen<g ref="char:EOLhyphen"/>cy to procure the long expected ſettelment of their freedomes.</p>
+            <p>That we have waited many Monethes for the ſecu<g ref="char:EOLhyphen"/>ring to us, and all the free borne people, their native Rights, and for our Indempnity, and Arreares as Souldiers; and our Hearts bleed to ſee our Country conſume under continued Diſtractions and heavy Op<g ref="char:EOLhyphen"/>preſſions.</p>
+            <p>
+               <pb n="16" facs="tcp:116213:9" rendition="simple:additions"/>That we ſee no hope of Indempnity for us and our Aſſiſtants; nor ſettling the foundations of freedome, but by entring into this Agreement which wee here<g ref="char:EOLhyphen"/>with offer to your Excellency deſiring your concur<g ref="char:EOLhyphen"/>rence therein.</p>
+            <p>That we have ſeene and felt the ſad Conſequences of being divided and ſcattered before our native free<g ref="char:EOLhyphen"/>domes were ſettled, and our Arreares ſecured, and ſuch a way eſtabliſhed for conſtant pay, that we may know where to receive it monthly without faile.</p>
+            <p>That we are bound in conſcience from the ſenſe of our duty to our native Country, and in mercy to our ſelves, to keepe together with our ſwords in our hands, to maintaine theſe our freedomes, for which the Parliament firſt invited us to take Armes, to ſee our Arreares and pay ſecured, and our deere Country freed from its intollerable Burdens.</p>
+            <p>May it therefore pleaſe your Excellency to go on in owning and leading us in maintaining of this our Cauſe, to the righteouſneſſe whereof God hath born ſuch cleare witneſſe: And in the pro<g ref="char:EOLhyphen"/>ſecution of theſe things wee humbly deſire to live and dye under your Excellencyes conduct.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
